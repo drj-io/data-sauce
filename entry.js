@@ -1,1 +1,1 @@
-var log = 0;
+ var log = 0;
